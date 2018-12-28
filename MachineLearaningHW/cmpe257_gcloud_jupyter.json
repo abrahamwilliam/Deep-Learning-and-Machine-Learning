@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "arched-canyon-210906",
+  "private_key_id": "8afc52f1fa64d7b30a1206eff5e025a0d9c3797e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDgiZiKMbEagkgN\nOjLS5iu+bjKPX4wRdBzTK1x/gbQADXABVfs7pfvbcraQYFgyALrgSDTt2PnLiaMn\np9c/KfyTawxlRvXvYROskaq7zARd+qy3Frsa4WHBdJJ9roIOuJB+o9F//ofeKxDd\nn3bx+BklU84x+1Zx2lUpfJg4uox3TKqGBGBl6IgTC3DizRi90yrPUCy2xUaRXEef\njFtwrUizLaLNoW022NLYpfqTBzbVZquPGc6YXjhBMzDLgQuqPb7Kso9pHAgq86Z/\nAi1ubZ2lvoE2T96bPWw4M3AW5wNDdIVhL4Fqjw02E3fhuqOH+Soe+hrxFHzk/rqY\nVU47FzUPAgMBAAECggEACKWSELBSiBlASC6QdSY/jByzmqJJUXcxOzNADjK/Xqy0\nBYBCXoXlm3vSv/wkDOOR3PjHUs0Nz8ZSPCR89jChSoB58mR+urlqFhkvvOFv+oEu\nxfnDrCUbHfPXf3OJKNv3jzOWeDayMMIOeVNJM8fOw6Xk/jdO7naZTdxcAvwjN8Io\nedRebki8y+6OPBpdAYsAz/XdMuM9G1uG4sZyDJ8IwhofzloZQxYjEWTDYkvHI4s7\nBJx2UHDVRp+Gj4YcABbG8068ufkh4I23M632yuNWLmZPOrZlo6Eiq/WLNdcd0c2s\nLKi/UM/uJpC1HDyQOYqNz6HWUCbck751oHtWG+xYwQKBgQDzgIr1MwwKlS1DgHNw\nZakhSWyVy1qEI3BMqjuDrBNoL24vM/shrn6z+YpYyaLlIzqlGDlkxhCxxpvtQPk0\n7ZcNNtX6HR7E46SWO2Ud2NVKG/eZ6HLbt5asgqQwPmrQed58bKd9zvGU3p42W9zu\ncYpD4G5TRoCAIzm5QYM/7F6xkQKBgQDsD97IUU8AnQSSDchhSBdnmizSJi67oQxq\nNp4knYR7E6yA9sEXLz16R0msHaVFwBZleAirDeAd4BpEBU/fThNTqZm4/2Le+szj\n/KvBQe6BZCDnJ8i70HU3yaT5IP1NuJLtMifPmuFPvWRtldXzlWszYkOtIvECJoN5\naR3NSKIsnwKBgGGPtR09EKwEzRfolVgJQ1R06K6zxVaAJHRzGFlPTo9Fwa3j89Cw\n608MwmOElmGcVdjj9crsmK/B1aOfjrmoIAdJWz5VAIj+dGlE7uSghgSlY/UkbzCd\nRB9mUIaL25wf2AaeOhVsHtr4vwckk0Zt82nyuAFhlAbDFlOlbgLkn6QhAoGACb82\nAatpyaqyD53GEk45uStigmLVNyYVLyWGLhja6YIMc1685korDat33UV0F4cw5Yup\nP/bYtCMWsoxNmfjNT30HPd49pNtSLm+2X8prIKiTuzenUCnxTRZkW20DSHxAhM63\nWhkZCIPXa7buGJqozHxYMwPoU6BneVHfyyQenh0CgYA3dkMo4iuFgaQMB45TeDPV\nmjNdK6WJbwO0m9Wtvf2DHJxygvUit/FotWMvTXBf8jGEOarGb6sb7uLpNsFJZ+h2\nPWdhlWcUQ0H/uYLqBFKd8AzQIsh7JyXM0rZ+6azSmtvdOQcaVjYYDBNxm7Ryh8g1\nV/ekgdzuTT9PrnKhq6WNwQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "jupyter@arched-canyon-210906.iam.gserviceaccount.com",
+  "client_id": "101257664203439859037",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jupyter%40arched-canyon-210906.iam.gserviceaccount.com"
+}
